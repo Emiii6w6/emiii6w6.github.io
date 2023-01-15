@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-01-15T17:55:17.169Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>First Post</title>
+    <link href="http://example.com/2023/01/16/First-Post/"/>
+    <id>http://example.com/2023/01/16/First-Post/</id>
+    <published>2023-01-15T17:05:45.000Z</published>
+    <updated>2023-01-15T17:55:17.169Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Title-One&quot;&gt;&lt;a href=&quot;#Title-One&quot; class=&quot;headerlink&quot; title=&quot;Title One&quot;&gt;&lt;/a&gt;Title One&lt;/h1&gt;&lt;h2 id=&quot;Title-Two&quot;&gt;&lt;a href=&quot;#Title-Two&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="life" scheme="http://example.com/categories/life/"/>
+    
+    <category term="blog" scheme="http://example.com/categories/life/blog/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2023/01/15/hello-world/"/>
+    <id>http://example.com/2023/01/15/hello-world/</id>
+    <published>2023-01-15T13:03:59.429Z</published>
+    <updated>2023-01-15T13:03:59.429Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>

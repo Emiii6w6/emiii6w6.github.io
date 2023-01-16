@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Emiii&#39;s Blog</title>
   
   
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-01-15T17:55:17.169Z</updated>
+  <updated>2023-01-16T07:13:23.614Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,23 +21,19 @@
     <link href="http://example.com/2023/01/16/First-Post/"/>
     <id>http://example.com/2023/01/16/First-Post/</id>
     <published>2023-01-15T17:05:45.000Z</published>
-    <updated>2023-01-15T17:55:17.169Z</updated>
+    <updated>2023-01-16T07:13:23.614Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;Title-One&quot;&gt;&lt;a href=&quot;#Title-One&quot; class=&quot;headerlink&quot; title=&quot;Title One&quot;&gt;&lt;/a&gt;Title One&lt;/h1&gt;&lt;h2 id=&quot;Title-Two&quot;&gt;&lt;a href=&quot;#Title-Two&quot;</summary>
-        
-      
+    <summary type="html">&lt;h1 id=&quot;Title-One&quot;&gt;&lt;a href=&quot;#Title-One&quot; class=&quot;headerlink&quot; title=&quot;Title One&quot;&gt;&lt;/a&gt;Title One&lt;/h1&gt;&lt;h2 id=&quot;Title-Two&quot;&gt;&lt;a href=&quot;#Title-Two&quot; class=&quot;headerlink&quot; title=&quot;Title Two&quot;&gt;&lt;/a&gt;Title Two&lt;/h2&gt;&lt;h3 id=&quot;Title-Three&quot;&gt;&lt;a href=&quot;#Title-Three&quot; class=&quot;headerlink&quot; title=&quot;Title Three&quot;&gt;&lt;/a&gt;Title Three&lt;/h3&gt;</summary>
     
     
     
-    <category term="life" scheme="http://example.com/categories/life/"/>
+    <category term="blog" scheme="http://example.com/categories/blog/"/>
     
-    <category term="blog" scheme="http://example.com/categories/life/blog/"/>
     
+    <category term="Testing" scheme="http://example.com/tags/Testing/"/>
+    
+    <category term="Another tag" scheme="http://example.com/tags/Another-tag/"/>
     
   </entry>
   

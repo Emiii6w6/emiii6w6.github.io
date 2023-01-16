@@ -8,17 +8,23 @@
       <link href="/2023/01/16/First-Post/"/>
       <url>/2023/01/16/First-Post/</url>
       
-        <content type="html"><![CDATA[<h1 id="Title-One"><a href="#Title-One" class="headerlink" title="Title One"></a>Title One</h1><h2 id="Title-Two"><a href="#Title-Two" class="headerlink" title="Title Two"></a>Title Two</h2><h3 id="Title-Three"><a href="#Title-Three" class="headerlink" title="Title Three"></a>Title Three</h3><p><strong>Bold</strong></p><p><em>斜體</em></p><p><del>刪除號</del></p><p>*無順序清單</p><ol><li>有順序清單</li><li>有順序清單2</li></ol><p><code>嵌入程式碼</code></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">程式碼</span><br></pre></td></tr></table></figure><blockquote><p>quote</p></blockquote>]]></content>
+        <content type="html"><![CDATA[<h1 id="Title-One"><a href="#Title-One" class="headerlink" title="Title One"></a>Title One</h1><h2 id="Title-Two"><a href="#Title-Two" class="headerlink" title="Title Two"></a>Title Two</h2><h3 id="Title-Three"><a href="#Title-Three" class="headerlink" title="Title Three"></a>Title Three</h3><span id="more"></span><p><strong>Bold</strong></p><p><em>斜體</em></p><p><del>刪除號</del></p><p>*無順序清單</p><ol><li>有順序清單</li><li>有順序清單2</li></ol><p><code>嵌入程式碼</code></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">程式碼</span><br></pre></td></tr></table></figure><blockquote><p>quote</p></blockquote>]]></content>
       
       
       <categories>
-          
-          <category> life </category>
           
           <category> blog </category>
           
       </categories>
       
+      
+        <tags>
+            
+            <tag> Testing </tag>
+            
+            <tag> Another tag </tag>
+            
+        </tags>
       
     </entry>
     

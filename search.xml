@@ -4,6 +4,53 @@
   
     
     <entry>
+      <title>Book post</title>
+      <link href="/2023/01/17/Book-post/"/>
+      <url>/2023/01/17/Book-post/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Game Post</title>
+      <link href="/2023/01/17/Game-Post/"/>
+      <url>/2023/01/17/Game-Post/</url>
+      
+        <content type="html"><![CDATA[<p>這是一個遊戲列表的貼文！！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Game </category>
+          
+          <category> NSwitch </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>2nd Post</title>
+      <link href="/2023/01/17/2nd-Post/"/>
+      <url>/2023/01/17/2nd-Post/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>First Post</title>
       <link href="/2023/01/16/First-Post/"/>
       <url>/2023/01/16/First-Post/</url>

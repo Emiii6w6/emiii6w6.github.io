@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2023/01/17/Game-Post/</loc>
+    
+    <lastmod>2023-01-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2023/01/17/Book-post/</loc>
+    
+    <lastmod>2023-01-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2023/01/17/2nd-Post/</loc>
+    
+    <lastmod>2023-01-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/2023/01/16/First-Post/</loc>
     
     <lastmod>2023-01-16</lastmod>
@@ -76,7 +103,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2023-01-16</lastmod>
+    <lastmod>2023-01-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -84,14 +111,14 @@
   
   <url>
     <loc>http://example.com/tags/Testing/</loc>
-    <lastmod>2023-01-16</lastmod>
+    <lastmod>2023-01-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/Another-tag/</loc>
-    <lastmod>2023-01-16</lastmod>
+    <lastmod>2023-01-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -100,7 +127,21 @@
   
   <url>
     <loc>http://example.com/categories/blog/</loc>
-    <lastmod>2023-01-16</lastmod>
+    <lastmod>2023-01-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/Game/</loc>
+    <lastmod>2023-01-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/Game/NSwitch/</loc>
+    <lastmod>2023-01-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

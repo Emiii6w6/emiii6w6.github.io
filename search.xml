@@ -4,31 +4,16 @@
   
     
     <entry>
-      <title>Book post</title>
-      <link href="/2023/01/17/Book-post/"/>
-      <url>/2023/01/17/Book-post/</url>
+      <title>Hexo架站心得與筆記</title>
+      <link href="/2023/01/18/Blog-set-up/"/>
+      <url>/2023/01/18/Blog-set-up/</url>
       
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Game Post</title>
-      <link href="/2023/01/17/Game-Post/"/>
-      <url>/2023/01/17/Game-Post/</url>
-      
-        <content type="html"><![CDATA[<p>這是一個遊戲列表的貼文！！</p>]]></content>
+        <content type="html"><![CDATA[<p> 終於！弄好了一個屬於自己的網站٩(˃̶͈̀௰˂̶͈́)و</p><span id="more"></span><p>之前雖然已經嘗試過了好幾個主流的網誌平台，但因為編輯界面用起來不太習慣的關係，導致什麼都沒有的空白網誌無限增加（爆）</p><p>最後還是選擇了用Hexo這個網誌框架，套用了主題NexT後再用GitHub Pages來呈現內容。</p><p>簡單列一下目前使用下來的優缺點：</p><h3 id="優點："><a href="#優點：" class="headerlink" title="優點："></a>優點：</h3><ul><li>載入速度快</li><li>可以直接用Markdown撰寫文章</li><li>可以追加功能、個人化細節，自由度高</li><li>Github查看歷史紀錄很方便，安全感滿滿</li><li>不用自己維護伺服器</li></ul><h3 id="缺點："><a href="#缺點：" class="headerlink" title="缺點："></a>缺點：</h3><ul><li>基本上只能從電腦操作</li><li>比較難有其他平台那樣的社交連結</li><li>一路上可能會遇到很多困難，都要自己動手解決ಥ_ಥ不太推薦給完全沒接觸過這一塊的人</li></ul><p>在架設的過程中參考了很多網路上的教學文章，<a href="https://hackmd.io/@Heidi-Liu/note-hexo-github">這篇</a>寫得很清楚，照著步驟順利地完成了環境設置和部署。</p><p>主題的部分則是直接照著<a href="https://theme-next.js.org/">官方文件</a>的說明進行。比較需要注意的大概是版本資訊，因為有過大更新的關係，有些教學文章的內容已經不能照用了。</p><h3 id="其他設置"><a href="#其他設置" class="headerlink" title="其他設置"></a>其他設置</h3><ul><li>站內搜尋 <a href="https://theme-next.js.org/docs/third-party-services/search-services.html#Local-Search">Ref</a><br>hexo-generator-searchdb </li><li>隱藏文章 <a href="https://www.0412.cyou/type/heyc.html">Ref</a><br>hexo-hide-posts </li><li>搜索框 <a href="https://blog.zzbd.org/2015/04/22/custom-search-btn/">Ref</a></li><li>評論 <a href="https://uchuhimo.me/2017/04/11/genesis/#%E6%B7%BB%E5%8A%A0%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F">Ref</a></li></ul><p>（陸續追加中）</p><p>以上！雖然過程比較麻煩但目前用起來很滿意，今後應該會常駐在這。<br>許願一下希望至少2023內不會中斷更新…😊（沒志氣</p>]]></content>
       
       
       <categories>
           
-          <category> Game </category>
-          
-          <category> NSwitch </category>
+          <category> Blog </category>
           
       </categories>
       
@@ -38,38 +23,27 @@
     
     
     <entry>
-      <title>2nd Post</title>
-      <link href="/2023/01/17/2nd-Post/"/>
-      <url>/2023/01/17/2nd-Post/</url>
+      <title>網誌更新紀錄</title>
+      <link href="/2023/01/18/Blog-development-log/"/>
+      <url>/2023/01/18/Blog-development-log/</url>
       
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>First Post</title>
-      <link href="/2023/01/16/First-Post/"/>
-      <url>/2023/01/16/First-Post/</url>
-      
-        <content type="html"><![CDATA[<h1 id="Title-One"><a href="#Title-One" class="headerlink" title="Title One"></a>Title One</h1><h2 id="Title-Two"><a href="#Title-Two" class="headerlink" title="Title Two"></a>Title Two</h2><h3 id="Title-Three"><a href="#Title-Three" class="headerlink" title="Title Three"></a>Title Three</h3><span id="more"></span><p><strong>Bold</strong></p><p><em>斜體</em></p><p><del>刪除號</del></p><p>*無順序清單</p><ol><li>有順序清單</li><li>有順序清單2</li></ol><p><code>嵌入程式碼</code></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">程式碼</span><br></pre></td></tr></table></figure><blockquote><p>quote</p></blockquote>]]></content>
+        <content type="html"><![CDATA[<p>更新內容紀錄</p><span id="more"></span><h3 id="23-x2F-01-x2F-17"><a href="#23-x2F-01-x2F-17" class="headerlink" title="23&#x2F;01&#x2F;17"></a>23&#x2F;01&#x2F;17</h3><ul><li>網站架設、部署完成</li></ul>]]></content>
       
       
       <categories>
           
-          <category> blog </category>
+          <category> Blog </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> Testing </tag>
+            <tag> blog </tag>
             
-            <tag> Another tag </tag>
+            <tag> hexo </tag>
+            
+            <tag> next </tag>
             
         </tags>
       
@@ -82,7 +56,7 @@
       <link href="/2023/01/15/hello-world/"/>
       <url>/2023/01/15/hello-world/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><span id="more"></span><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
       
       

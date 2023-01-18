@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-01-17T12:16:00.259Z</updated>
+  <updated>2023-01-18T15:53:58.604Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,75 +17,42 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Book post</title>
-    <link href="http://example.com/2023/01/17/Book-post/"/>
-    <id>http://example.com/2023/01/17/Book-post/</id>
-    <published>2023-01-17T12:16:00.000Z</published>
-    <updated>2023-01-17T12:16:00.259Z</updated>
+    <title>Hexo架站心得與筆記</title>
+    <link href="http://example.com/2023/01/18/Blog-set-up/"/>
+    <id>http://example.com/2023/01/18/Blog-set-up/</id>
+    <published>2023-01-18T13:33:37.000Z</published>
+    <updated>2023-01-18T15:53:58.604Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt; 終於！弄好了一個屬於自己的網站٩(˃̶͈̀௰˂̶͈́)و&lt;/p&gt;</summary>
     
     
     
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Game Post</title>
-    <link href="http://example.com/2023/01/17/Game-Post/"/>
-    <id>http://example.com/2023/01/17/Game-Post/</id>
-    <published>2023-01-17T12:15:50.000Z</published>
-    <updated>2023-01-17T12:19:22.306Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;這是一個遊戲列表的貼文！！&lt;/p&gt;
-</summary>
-        
-      
-    
-    
-    
-    <category term="Game" scheme="http://example.com/categories/Game/"/>
-    
-    <category term="NSwitch" scheme="http://example.com/categories/Game/NSwitch/"/>
+    <category term="Blog" scheme="http://example.com/categories/Blog/"/>
     
     
   </entry>
   
   <entry>
-    <title>2nd Post</title>
-    <link href="http://example.com/2023/01/17/2nd-Post/"/>
-    <id>http://example.com/2023/01/17/2nd-Post/</id>
-    <published>2023-01-17T12:15:28.000Z</published>
-    <updated>2023-01-17T12:15:28.189Z</updated>
+    <title>網誌更新紀錄</title>
+    <link href="http://example.com/2023/01/18/Blog-development-log/"/>
+    <id>http://example.com/2023/01/18/Blog-development-log/</id>
+    <published>2023-01-17T15:26:59.000Z</published>
+    <updated>2023-01-18T14:55:38.719Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;更新內容紀錄&lt;/p&gt;</summary>
     
     
     
+    <category term="Blog" scheme="http://example.com/categories/Blog/"/>
     
     
-  </entry>
-  
-  <entry>
-    <title>First Post</title>
-    <link href="http://example.com/2023/01/16/First-Post/"/>
-    <id>http://example.com/2023/01/16/First-Post/</id>
-    <published>2023-01-15T17:05:45.000Z</published>
-    <updated>2023-01-16T07:13:23.614Z</updated>
+    <category term="blog" scheme="http://example.com/tags/blog/"/>
     
+    <category term="hexo" scheme="http://example.com/tags/hexo/"/>
     
-    <summary type="html">&lt;h1 id=&quot;Title-One&quot;&gt;&lt;a href=&quot;#Title-One&quot; class=&quot;headerlink&quot; title=&quot;Title One&quot;&gt;&lt;/a&gt;Title One&lt;/h1&gt;&lt;h2 id=&quot;Title-Two&quot;&gt;&lt;a href=&quot;#Title-Two&quot; class=&quot;headerlink&quot; title=&quot;Title Two&quot;&gt;&lt;/a&gt;Title Two&lt;/h2&gt;&lt;h3 id=&quot;Title-Three&quot;&gt;&lt;a href=&quot;#Title-Three&quot; class=&quot;headerlink&quot; title=&quot;Title Three&quot;&gt;&lt;/a&gt;Title Three&lt;/h3&gt;</summary>
-    
-    
-    
-    <category term="blog" scheme="http://example.com/categories/blog/"/>
-    
-    
-    <category term="Testing" scheme="http://example.com/tags/Testing/"/>
-    
-    <category term="Another tag" scheme="http://example.com/tags/Another-tag/"/>
+    <category term="next" scheme="http://example.com/tags/next/"/>
     
   </entry>
   
@@ -94,16 +61,10 @@
     <link href="http://example.com/2023/01/15/hello-world/"/>
     <id>http://example.com/2023/01/15/hello-world/</id>
     <published>2023-01-15T13:03:59.429Z</published>
-    <updated>2023-01-15T13:03:59.429Z</updated>
+    <updated>2023-01-18T15:29:00.000Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
-        
-      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</summary>
     
     
     

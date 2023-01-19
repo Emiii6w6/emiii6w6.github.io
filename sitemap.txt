@@ -1,4 +1,7 @@
+http://example.com/categories/test.html
+http://example.com/testing/index.html
 http://example.com/2023/01/18/Blog-set-up/
+http://example.com/2023/01/19/Markdown-testing/
 http://example.com/2023/01/15/hello-world/
 http://example.com/2023/01/18/Blog-development-log/
 http://example.com/about/index.html

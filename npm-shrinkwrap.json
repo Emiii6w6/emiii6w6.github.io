@@ -31,7 +31,7 @@
         "hexo-theme-next": "^8.14.1",
         "hexo-word-counter": "^0.2.0",
         "hexo-wordcount": "^6.0.1",
-        "highlight.js": "^9.12.0",
+        "highlight.js": "^11.10.0",
         "next": "^12.3.4",
         "react": "^18.2.0",
         "react-dom": "^18.2.0"
@@ -3311,6 +3311,16 @@
         "node": ">=8.6.0"
       }
     },
+    "node_modules/hexo-symbols-count-time/node_modules/highlight.js": {
+      "version": "9.18.5",
+      "resolved": "https://registry.npmjs.org/highlight.js/-/highlight.js-9.18.5.tgz",
+      "integrity": "sha512-a5bFyofd/BHCX52/8i8uJkjr9DYwXIPnM/plwI6W7ezItLGqzt7X2G2nXuYSfsIJdkwwj/g9DG1LkcGJI/dDoA==",
+      "deprecated": "Support has ended for 9.x series. Upgrade to @latest",
+      "hasInstallScript": true,
+      "engines": {
+        "node": "*"
+      }
+    },
     "node_modules/hexo-symbols-count-time/node_modules/htmlparser2": {
       "version": "4.1.0",
       "resolved": "https://registry.npmjs.org/htmlparser2/-/htmlparser2-4.1.0.tgz",
@@ -3361,14 +3371,6 @@
         "node": ">=12.4.0"
       }
     },
-    "node_modules/hexo-util/node_modules/highlight.js": {
-      "version": "11.7.0",
-      "resolved": "https://registry.npmjs.org/highlight.js/-/highlight.js-11.7.0.tgz",
-      "integrity": "sha512-1rRqesRFhMO/PRF+G86evnyJkCgaZFOI+Z6kdj15TA18funfoqJXvgPCLSf0SWq3SRfg1j3HlDs8o4s3EGq1oQ==",
-      "engines": {
-        "node": ">=12.0.0"
-      }
-    },
     "node_modules/hexo-word-counter": {
       "version": "0.2.0",
       "resolved": "https://registry.npmjs.org/hexo-word-counter/-/hexo-word-counter-0.2.0.tgz",
@@ -3385,13 +3387,11 @@
       "integrity": "sha512-tbo2P9xRWEKQmRf7+XuPjx9It1MnaE26nA+EEb2DN39gK1x+26W7Nm4Iyp4AugQjBWYYDx7OLn4gp1WFxQpQew=="
     },
     "node_modules/highlight.js": {
-      "version": "9.18.5",
-      "resolved": "https://registry.npmjs.org/highlight.js/-/highlight.js-9.18.5.tgz",
-      "integrity": "sha512-a5bFyofd/BHCX52/8i8uJkjr9DYwXIPnM/plwI6W7ezItLGqzt7X2G2nXuYSfsIJdkwwj/g9DG1LkcGJI/dDoA==",
-      "deprecated": "Support has ended for 9.x series. Upgrade to @latest",
-      "hasInstallScript": true,
+      "version": "11.10.0",
+      "resolved": "https://registry.npmjs.org/highlight.js/-/highlight.js-11.10.0.tgz",
+      "integrity": "sha512-SYVnVFswQER+zu1laSya563s+F8VDGt7o35d4utbamowvUNLLMovFqwCLSocpZTz3MgaSRA1IbqRWZv97dtErQ==",
       "engines": {
-        "node": "*"
+        "node": ">=12.0.0"
       }
     },
     "node_modules/hoek": {

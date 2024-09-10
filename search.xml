@@ -4,6 +4,108 @@
   
     
     <entry>
+      <title>Hello World</title>
+      <link href="/2024/09/08/hello-world/"/>
+      <url>/2024/09/08/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><span id="more"></span><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>遊戲｜黑帝斯Hades</title>
+      <link href="/2023/01/27/Game-NS-Hades/"/>
+      <url>/2023/01/27/Game-NS-Hades/</url>
+      
+        <content type="html"><![CDATA[<p><a href="https://www.supergiantgames.com/games/hades/">官方網站</a><br><a href="https://youtube.com/watch?v=hsi7BMIp0Js&si=EnSIkaIECMiOmarE">預告影片</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 遊戲 </category>
+          
+          <category> NSwitch </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Game </tag>
+            
+            <tag> NSwitch </tag>
+            
+            <tag> 一般向 </tag>
+            
+            <tag> 遊戲心得 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>遊記｜寶可夢咖啡廳</title>
+      <link href="/2023/01/27/Travel-Japan-Pokemoncafe/"/>
+      <url>/2023/01/27/Travel-Japan-Pokemoncafe/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 遊記 </category>
+          
+          <category> 日本 </category>
+          
+          <category> 東京 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>遊戲｜黑帝斯Hades</title>
+      <link href="/2023/01/20/Game-Switch-Hades-Repo/"/>
+      <url>/2023/01/20/Game-Switch-Hades-Repo/</url>
+      
+        <content type="html"><![CDATA[<p><a href="https://www.supergiantgames.com/games/hades/">官方網站</a><br><a href="https://youtube.com/watch?v=hsi7BMIp0Js&si=EnSIkaIECMiOmarE">預告影片</a></p><p>⭐️✨<br>❤️❣️</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Game </category>
+          
+          <category> NSwitch </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Game </tag>
+            
+            <tag> NSwitch </tag>
+            
+            <tag> 一般向 </tag>
+            
+            <tag> 遊戲心得 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Markdown筆記</title>
       <link href="/2023/01/19/Markdown-testing/"/>
       <url>/2023/01/19/Markdown-testing/</url>
@@ -54,7 +156,7 @@
       <link href="/2023/01/18/Blog-development-log/"/>
       <url>/2023/01/18/Blog-development-log/</url>
       
-        <content type="html"><![CDATA[<p>更新內容紀錄</p><span id="more"></span><h3 id="23-x2F-01-x2F-17"><a href="#23-x2F-01-x2F-17" class="headerlink" title="23&#x2F;01&#x2F;17"></a>23&#x2F;01&#x2F;17</h3><ul><li>網站架設、部署完成</li></ul>]]></content>
+        <content type="html"><![CDATA[<p>更新內容紀錄</p><span id="more"></span><h3 id="23-x2F-01-x2F-17"><a href="#23-x2F-01-x2F-17" class="headerlink" title="23&#x2F;01&#x2F;17"></a>23&#x2F;01&#x2F;17</h3><ul><li>網站架設、部署完成</li></ul><h3 id="23-x2F-01-x2F-20"><a href="#23-x2F-01-x2F-20" class="headerlink" title="23&#x2F;01&#x2F;20"></a>23&#x2F;01&#x2F;20</h3><ul><li>新增次級目錄</li></ul>]]></content>
       
       
       <categories>
@@ -73,19 +175,6 @@
             <tag> next </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2023/01/15/hello-world/"/>
-      <url>/2023/01/15/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><span id="more"></span><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
-      
       
     </entry>
     
